@@ -1,0 +1,88 @@
+p{
+    color: rgb(255, 174, 0);
+    font-size: 44px;
+}
+h1{
+    color:blanchedalmond;
+    font-size: 16px;
+}
+h2{
+    color: crimson;
+    font: size 16px;
+}
+h3{
+    color: bisque;
+    font: size 16px;
+}
+h4{
+    color: aqua;
+    font-size: 16px;
+}
+h5{
+    color: black;
+    font-size: 16px;
+}
+h6{
+    color: blueviolet;
+    font-size: 34px;
+}
+ol{
+    color: darkgreen;
+    font: size 16px;
+}
+ul{
+    color:black;
+    font-size: 16px;
+}
+li{
+    color:cadetblue;
+    font-size: 16px;
+}
+div{
+    color:burlywood;
+    font-size: 16px;
+}
+span{
+    color:chocolate;
+    font-size: 16px;
+}
+img{
+    color:orangered;
+    font-size: 16px;
+}
+a{
+    color:aliceblue;
+    font-size: 16px;
+}
+main{
+    color:bisque;
+    font-size: 18px;
+}
+article{
+    color:black;
+    font-size: 30px;
+}
+section{
+    color:aqua;
+    font-size: 19px;
+}
+footer{
+    color:beige;
+    font-size: 17px;
+}
+header{
+    color:black;
+    font-size: 17px;
+}
+nav{
+    color:black;
+    font-size: 22px;
+}
+strong{
+    color:brown;
+    font-size: 20px;
+}
+em{
+    color:black;
+    font-size: 15px;
+}
